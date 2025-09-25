@@ -193,8 +193,8 @@
     <EmbeddedResource Include="CardTemplate.hbm.xml" />
     <EmbeddedResource Include="CardPair.hbm.xml" />
     <EmbeddedResource Include="DatabaseServerAlarm.hbm.xml" />
-    <Content Include="Car.hbm.xml" />
-    <Content Include="CarCards.hbm.xml" />
+    <EmbeddedResource Include="Car.hbm.xml" />
+    <EmbeddedResource Include="CarCards.hbm.xml" />
     <Content Include="Iesi.Collections.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
