@@ -1,5 +1,6 @@
 using Contal.Cgp.BaseLib;
 using Contal.Cgp.Server.Beans;
+using Contal.IwQuick;
 using Contal.IwQuick.UI;
 using System;
 using System.Collections.Generic;
@@ -84,6 +85,17 @@ namespace Contal.Cgp.Client
             var list = CgpClient.Singleton.MainServerProvider.Cars.ShortSelectByCriteria(_filterSettings, out error);
             if (error != null)
                 throw error;
+            CheckAccess();
+
+            _lRecordCount.BeginInvoke(new Action(
+                () =>
+                {
+                    _lRecordCount.Text = string.Format("{0} : {1}",
+                        GetString("TextRecordCount"),
+                        list == null
+                            ? 0
+                            : list.Count);
+                }));
             return list;
         }
 
@@ -252,6 +264,17 @@ namespace Contal.Cgp.Client
             catch
             {
                 return false;
+            }
+        }
+
+        private void CheckAccess()
+        {
+            if (InvokeRequired)
+                BeginInvoke(new DVoid2Void(CheckAccess));
+            else
+            {
+                _cdgvData.EnabledInsertButton = HasAccessInsert();
+                _cdgvData.EnabledDeleteButton = HasAccessDelete();
             }
         }
     }
