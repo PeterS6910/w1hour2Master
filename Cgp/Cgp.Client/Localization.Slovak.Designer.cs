@@ -1780,6 +1780,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Autá.
+        /// </summary>
+        internal static string CarsFormCarsForm {
+            get {
+                return ResourceManager.GetString("CarsFormCarsForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CCU - Nízke napätie batérie.
         /// </summary>
         internal static string CCUAlarmBatteryIsLow {
@@ -2091,6 +2100,15 @@ namespace Contal.Cgp.Client {
         internal static string CgpClientMainForm_cardSystemsForm {
             get {
                 return ResourceManager.GetString("CgpClientMainForm_cardSystemsForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Autá.
+        /// </summary>
+        internal static string CgpClientMainForm_carsForm {
+            get {
+                return ResourceManager.GetString("CgpClientMainForm_carsForm", resourceCulture);
             }
         }
         

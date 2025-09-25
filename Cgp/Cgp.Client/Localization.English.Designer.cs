@@ -4516,6 +4516,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Cars.
+        /// </summary>
+        internal static string CarsFormCarsForm {
+            get {
+                return ResourceManager.GetString("CarsFormCarsForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to CCU alarm battery is low.
         /// </summary>
         internal static string CCUAlarmBatteryIsLow {
@@ -4836,6 +4845,15 @@ namespace Contal.Cgp.Client {
         internal static string CgpClientMainForm_cardTemplatesForm {
             get {
                 return ResourceManager.GetString("CgpClientMainForm_cardTemplatesForm", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cars.
+        /// </summary>
+        internal static string CgpClientMainForm_carsForm {
+            get {
+                return ResourceManager.GetString("CgpClientMainForm_carsForm", resourceCulture);
             }
         }
         

@@ -1119,12 +1119,18 @@
   <data name="CardSystemsForm_lNameFilter" xml:space="preserve">
     <value>Názov</value>
   </data>
+  <data name="CarsFormCarsForm" xml:space="preserve">
+    <value>Autá</value>
+  </data>  
   <data name="CgpClientMainForm_cardsForm" xml:space="preserve">
     <value>Karty</value>
   </data>
   <data name="CgpClientMainForm_cardSystemsForm" xml:space="preserve">
     <value>Kartové systémy</value>
   </data>
+  <data name="CgpClientMainForm_carsForm" xml:space="preserve">
+    <value>Autá</value>
+  </data>  
   <data name="ColumnCardSystem" xml:space="preserve">
     <value>Kartový systém</value>
   </data>

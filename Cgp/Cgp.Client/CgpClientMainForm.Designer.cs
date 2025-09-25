@@ -591,12 +591,21 @@ namespace Contal.Cgp.Client
             // 
             // _carsForm
             // 
-            this._carsForm.Image = ((System.Drawing.Image)(resources.GetObject("_carsForm.Image")));
+            object _carsFormImageResource = resources.GetObject("_carsForm.Image");
+            System.Drawing.Icon _carsFormIconResource = _carsFormImageResource as System.Drawing.Icon;
+            if (_carsFormIconResource != null)
+            {
+                this._carsForm.Image = _carsFormIconResource.ToBitmap();
+            }
+            else
+            {
+                this._carsForm.Image = ((System.Drawing.Image)(_carsFormImageResource));
+            }
             this._carsForm.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this._carsForm.ImageTransparentColor = System.Drawing.Color.Magenta;
             this._carsForm.Name = "_carsForm";
             this._carsForm.Size = new System.Drawing.Size(232, 29);
-            this._carsForm.Text = "Cars form";
+            this._carsForm.Text = "Cars";
             this._carsForm.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this._carsForm.Click += new System.EventHandler(this._carsForm_Click);
             // 

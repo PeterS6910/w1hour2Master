@@ -657,6 +657,9 @@
   <data name="CgpClientMainForm_cardSystemsForm" xml:space="preserve">
     <value>Kortsystem</value>
   </data>
+  <data name="CgpClientMainForm_carsForm" xml:space="preserve">
+    <value>Bilar</value>
+  </data>
   <data name="CardSystemsFormCardSystemsForm" xml:space="preserve">
     <value>Kortsystem</value>
   </data>
@@ -683,6 +686,9 @@
   </data>
   <data name="CardsFormCardsForm" xml:space="preserve">
     <value>Kort</value>
+  </data>
+  <data name="CarsFormCarsForm" xml:space="preserve">
+    <value>Bilar</value>
   </data>
   <data name="CardSystemsEditForm_lCards" xml:space="preserve">
     <value>Kort</value>

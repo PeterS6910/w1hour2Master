@@ -392,19 +392,22 @@
   </data>
   <data name="_cardSystemsForm.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJRSURBVDhPzZBfSFNhGMY/iqSooGhE5YU207M/1jgbnnO2
-        nXbQyNY/MMqbUCi7COzCSG0W1TRhJagbSqmlzm3obNFQ0RZm0zTRIEEslIIKIqG7RpnNqXs6jgNCRAy6
-        6YEf7wvP9z6870f+D2ms9i0KW/22eFFZrQnSKCF0Vf0uRWvXtNLt/xwXrt5ZTe39KWmckNLNCVQhIQvF
-        hCAeSgiJFq5dA2mckMyCIoq5eC0sXLJCKCmHcPkmBMsKlWJfEavc1Vswlope8Q3oy2zgLlhWAyi7h1J4
-        BsKmwDgMnQEwtxvAVNaBuV4Dfa0TGeV23ONN6OL0oFv8cBlNKDIfXw1ItjdTjCcYXlxeRmghglBkEaHF
-        JbEu4TuAnyIBsxlTBj0mzIfxSrMPZXlnfw8YDH+ZD+P9tx8xPoh8nF/AaO4p+DZtxEi6GnPnCjCdl48O
-        lo1696ZHJ/bzGGPZRvGEZirN0x9O9w9B3fkUKlcPVO0BqNx9OFbVgCBNY1wMsJ05D627F8UV1fDqdNE3
-        LPt1JjtbR5SO1tSdHT2RVN8zpLT1QG53Y3eNE/JqJ1S2Bjw6kYsxKg2WoitIfjCA044WfDp6BI+Tkt6N
-        8PxWomtqWkc1eQ06hzNXccebLW98eCBGa3dWnyDMTjIMJsX762g66s05iUBefvS1uL5rw3r4tsvapJ/4
-        s55znHaY53OGNZqZl1othpQKvM3KxChN9w+w7MEnHLdHevp3dScmTg/K5XNBfcahCaMBL/Rsu2TFp7sy
-        Ge2S7RBW+g6lUu1Xq1Nixr+LkF8I1VqZmFSe+AAAAABJRU5ErkJggg==
-</value>
+      iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+      YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJRSURBVDhPzZBfSFNhGMY/iqSooGhE5YU207M/1jgbnnO2
+      nXbQyNY/MMqbUCi7COzCSG0W1TRhJagbSqmlzm3obNFQ0RZm0zTRIEEslIIKIqG7RpnNqXs6jgNCRAy6
+      6YEf7wvP9z6870f+D2ms9i0KW/22eFFZrQnSKCF0Vf0uRWvXtNLt/xwXrt5ZTe39KWmckNLNCVQhIQvF
+      hCAeSgiJFq5dA2mckMyCIoq5eC0sXLJCKCmHcPkmBMsKlWJfEavc1Vswlope8Q3oy2zgLlhWAyi7h1J4
+      BsKmwDgMnQEwtxvAVNaBuV4Dfa0TGeV23ONN6OL0oFv8cBlNKDIfXw1ItjdTjCcYXlxeRmghglBkEaHF
+      JbEu4TuAnyIBsxlTBj0mzIfxSrMPZXlnfw8YDH+ZD+P9tx8xPoh8nF/AaO4p+DZtxEi6GnPnCjCdl48O
+      lo1696ZHJ/bzGGPZRvGEZirN0x9O9w9B3fkUKlcPVO0BqNx9OFbVgCBNY1wMsJ05D627F8UV1fDqdNE3
+      LPt1JjtbR5SO1tSdHT2RVN8zpLT1QG53Y3eNE/JqJ1S2Bjw6kYsxKg2WoitIfjCA044WfDp6BI+Tkt6N
+      8PxWomtqWkc1eQ06hzNXccebLW98eCBGa3dWnyDMTjIMJsX762g66s05iUBefvS1uL5rw3r4tsvapJ/4
+      s55znHaY53OGNZqZl1othpQKvM3KxChN9w+w7MEnHLdHevp3dScmTg/K5XNBfcahCaMBL/Rsu2TFp7sy
+      Ge2S7RBW+g6lUu1Xq1Nixr+LkF8I1VqZmFSe+AAAAABJRU5ErkJggg==
+    </value>
+  </data>
+  <data name="_carsForm.Image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\Car16.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="_presentationGroupsForm.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

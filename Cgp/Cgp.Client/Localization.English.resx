@@ -1122,11 +1122,17 @@
   <data name="CardSystemsForm_lNameFilter" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="CarsFormCarsForm" xml:space="preserve">
+    <value>Cars</value>
+  </data>
   <data name="CgpClientMainForm_cardsForm" xml:space="preserve">
     <value>Cards</value>
   </data>
   <data name="CgpClientMainForm_cardSystemsForm" xml:space="preserve">
     <value>Card systems</value>
+  </data>
+  <data name="CgpClientMainForm_carsForm" xml:space="preserve">
+    <value>Cars</value>
   </data>
   <data name="ColumnCardSystem" xml:space="preserve">
     <value>Card system</value>
