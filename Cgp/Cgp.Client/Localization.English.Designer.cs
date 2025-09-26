@@ -4516,6 +4516,150 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Assigned.
+        /// </summary>
+        internal static string CarEditForm_lAssignedCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAssignedCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Available.
+        /// </summary>
+        internal static string CarEditForm_lAvailableCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAvailableCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Cards.
+        /// </summary>
+        internal static string CarEditForm_tpCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Information.
+        /// </summary>
+        internal static string CarEditForm_tpInformation {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to License plate.
+        /// </summary>
+        internal static string CarEditFormlabel1 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brand.
+        /// </summary>
+        internal static string CarEditFormlabel2 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Valid from.
+        /// </summary>
+        internal static string CarEditFormlabel3 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Valid to.
+        /// </summary>
+        internal static string CarEditFormlabel4 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security level.
+        /// </summary>
+        internal static string CarEditFormlabel5 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Version.
+        /// </summary>
+        internal static string CarEditFormlabel6 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Description.
+        /// </summary>
+        internal static string CarEditFormlabel8 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Clear.
+        /// </summary>
+        internal static string CarsForm_bFilterClear {
+            get {
+                return ResourceManager.GetString("CarsForm_bFilterClear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filter.
+        /// </summary>
+        internal static string CarsForm_bRunFilter {
+            get {
+                return ResourceManager.GetString("CarsForm_bRunFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Brand.
+        /// </summary>
+        internal static string CarsForm_lBrand {
+            get {
+                return ResourceManager.GetString("CarsForm_lBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Lp.
+        /// </summary>
+        internal static string CarsForm_lLp {
+            get {
+                return ResourceManager.GetString("CarsForm_lLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security level.
+        /// </summary>
+        internal static string CarsForm_lSecurityLevel {
+            get {
+                return ResourceManager.GetString("CarsForm_lSecurityLevel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Cars.
         /// </summary>
         internal static string CarsFormCarsForm {
@@ -5614,6 +5758,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Brand.
+        /// </summary>
+        internal static string ColumnBrand {
+            get {
+                return ResourceManager.GetString("ColumnBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Calendar.
         /// </summary>
         internal static string ColumnCalendar {
@@ -6217,6 +6370,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to License plate.
+        /// </summary>
+        internal static string ColumnLp {
+            get {
+                return ResourceManager.GetString("ColumnLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Network server name.
         /// </summary>
         internal static string ColumnMachineName {
@@ -6510,6 +6672,15 @@ namespace Contal.Cgp.Client {
         internal static string ColumnSectorNumber {
             get {
                 return ResourceManager.GetString("ColumnSectorNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Security level.
+        /// </summary>
+        internal static string ColumnSecurityLevel {
+            get {
+                return ResourceManager.GetString("ColumnSecurityLevel", resourceCulture);
             }
         }
         
@@ -6879,6 +7050,24 @@ namespace Contal.Cgp.Client {
         internal static string ColumnUsername {
             get {
                 return ResourceManager.GetString("ColumnUsername", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Valid from.
+        /// </summary>
+        internal static string ColumnValidityDateFrom {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateFrom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Valid to.
+        /// </summary>
+        internal static string ColumnValidityDateTo {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateTo", resourceCulture);
             }
         }
         

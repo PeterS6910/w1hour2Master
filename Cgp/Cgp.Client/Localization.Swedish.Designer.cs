@@ -4678,6 +4678,150 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Tilldelade.
+        /// </summary>
+        internal static string CarEditForm_lAssignedCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAssignedCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tillgängliga.
+        /// </summary>
+        internal static string CarEditForm_lAvailableCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAvailableCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Kort.
+        /// </summary>
+        internal static string CarEditForm_tpCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Information.
+        /// </summary>
+        internal static string CarEditForm_tpInformation {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Registreringsnummer.
+        /// </summary>
+        internal static string CarEditFormlabel1 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Märke.
+        /// </summary>
+        internal static string CarEditFormlabel2 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Giltig från.
+        /// </summary>
+        internal static string CarEditFormlabel3 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Giltig till.
+        /// </summary>
+        internal static string CarEditFormlabel4 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Säkerhetsnivå.
+        /// </summary>
+        internal static string CarEditFormlabel5 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Version.
+        /// </summary>
+        internal static string CarEditFormlabel6 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Beskrivning.
+        /// </summary>
+        internal static string CarEditFormlabel8 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Rensa.
+        /// </summary>
+        internal static string CarsForm_bFilterClear {
+            get {
+                return ResourceManager.GetString("CarsForm_bFilterClear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filtrera.
+        /// </summary>
+        internal static string CarsForm_bRunFilter {
+            get {
+                return ResourceManager.GetString("CarsForm_bRunFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Märke.
+        /// </summary>
+        internal static string CarsForm_lBrand {
+            get {
+                return ResourceManager.GetString("CarsForm_lBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Registreringsnummer.
+        /// </summary>
+        internal static string CarsForm_lLp {
+            get {
+                return ResourceManager.GetString("CarsForm_lLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Säkerhetsnivå.
+        /// </summary>
+        internal static string CarsForm_lSecurityLevel {
+            get {
+                return ResourceManager.GetString("CarsForm_lSecurityLevel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Bilar.
         /// </summary>
         internal static string CarsFormCarsForm {
@@ -5785,6 +5929,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Märke.
+        /// </summary>
+        internal static string ColumnBrand {
+            get {
+                return ResourceManager.GetString("ColumnBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Kalender.
         /// </summary>
         internal static string ColumnCalendar {
@@ -6388,6 +6541,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Registreringsnummer.
+        /// </summary>
+        internal static string ColumnLp {
+            get {
+                return ResourceManager.GetString("ColumnLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Näverksserver namn.
         /// </summary>
         internal static string ColumnMachineName {
@@ -6681,6 +6843,15 @@ namespace Contal.Cgp.Client {
         internal static string ColumnSectorNumber {
             get {
                 return ResourceManager.GetString("ColumnSectorNumber", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Säkerhetsnivå.
+        /// </summary>
+        internal static string ColumnSecurityLevel {
+            get {
+                return ResourceManager.GetString("ColumnSecurityLevel", resourceCulture);
             }
         }
         
@@ -7050,6 +7221,24 @@ namespace Contal.Cgp.Client {
         internal static string ColumnUsername {
             get {
                 return ResourceManager.GetString("ColumnUsername", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Giltig från.
+        /// </summary>
+        internal static string ColumnValidityDateFrom {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateFrom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Giltig till.
+        /// </summary>
+        internal static string ColumnValidityDateTo {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateTo", resourceCulture);
             }
         }
         

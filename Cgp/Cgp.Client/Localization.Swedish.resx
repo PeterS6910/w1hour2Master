@@ -690,8 +690,56 @@
   <data name="CarsFormCarsForm" xml:space="preserve">
     <value>Bilar</value>
   </data>
+  <data name="CarsForm_bFilterClear" xml:space="preserve">
+    <value>Rensa</value>
+  </data>
+  <data name="CarsForm_bRunFilter" xml:space="preserve">
+    <value>Filtrera</value>
+  </data>
+  <data name="CarsForm_lBrand" xml:space="preserve">
+    <value>Märke</value>
+  </data>
+  <data name="CarsForm_lLp" xml:space="preserve">
+    <value>Registreringsnummer</value>
+  </data>
+  <data name="CarsForm_lSecurityLevel" xml:space="preserve">
+    <value>Säkerhetsnivå</value>
+  </data>
   <data name="CardSystemsEditForm_lCards" xml:space="preserve">
     <value>Kort</value>
+  </data>
+  <data name="CarEditForm_lAssignedCards" xml:space="preserve">
+    <value>Tilldelade</value>
+  </data>
+  <data name="CarEditForm_lAvailableCards" xml:space="preserve">
+    <value>Tillgängliga</value>
+  </data>
+  <data name="CarEditForm_tpCards" xml:space="preserve">
+    <value>Kort</value>
+  </data>
+  <data name="CarEditForm_tpInformation" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="CarEditFormlabel1" xml:space="preserve">
+    <value>Registreringsnummer</value>
+  </data>
+  <data name="CarEditFormlabel2" xml:space="preserve">
+    <value>Märke</value>
+  </data>
+  <data name="CarEditFormlabel3" xml:space="preserve">
+    <value>Giltig från</value>
+  </data>
+  <data name="CarEditFormlabel4" xml:space="preserve">
+    <value>Giltig till</value>
+  </data>
+  <data name="CarEditFormlabel5" xml:space="preserve">
+    <value>Säkerhetsnivå</value>
+  </data>
+  <data name="CarEditFormlabel6" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="CarEditFormlabel8" xml:space="preserve">
+    <value>Beskrivning</value>
   </data>
   <data name="GeneralOptionsForm_chbPortCarrierDetect" xml:space="preserve">
     <value>Bärvågs identifierare</value>
@@ -1775,6 +1823,24 @@
   </data>
   <data name="ColumnGroupName" xml:space="preserve">
     <value>Gruppnamn</value>
+  </data>
+  <data name="ColumnLp" xml:space="preserve">
+    <value>Registreringsnummer</value>
+  </data>
+  <data name="ColumnBrand" xml:space="preserve">
+    <value>Märke</value>
+  </data>
+  <data name="ColumnValidityDateFrom" xml:space="preserve">
+    <value>Giltig från</value>
+  </data>
+  <data name="ColumnValidityDateTo" xml:space="preserve">
+    <value>Giltig till</value>
+  </data>
+  <data name="ColumnSecurityLevel" xml:space="preserve">
+    <value>Säkerhetsnivå</value>
+  </data>
+  <data name="ColumnSymbol" xml:space="preserve">
+    <value>Symbol</value>
   </data>
   <data name="PresentationGroupEditForm_lGroupName" xml:space="preserve">
     <value>Gruppnamn</value>

@@ -1780,6 +1780,150 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Priradené.
+        /// </summary>
+        internal static string CarEditForm_lAssignedCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAssignedCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dostupné.
+        /// </summary>
+        internal static string CarEditForm_lAvailableCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_lAvailableCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Karty.
+        /// </summary>
+        internal static string CarEditForm_tpCards {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpCards", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Informácie.
+        /// </summary>
+        internal static string CarEditForm_tpInformation {
+            get {
+                return ResourceManager.GetString("CarEditForm_tpInformation", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ŠPZ.
+        /// </summary>
+        internal static string CarEditFormlabel1 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Značka.
+        /// </summary>
+        internal static string CarEditFormlabel2 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platné od.
+        /// </summary>
+        internal static string CarEditFormlabel3 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platné do.
+        /// </summary>
+        internal static string CarEditFormlabel4 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bezpečnostná úroveň.
+        /// </summary>
+        internal static string CarEditFormlabel5 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Verzia.
+        /// </summary>
+        internal static string CarEditFormlabel6 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Popis.
+        /// </summary>
+        internal static string CarEditFormlabel8 {
+            get {
+                return ResourceManager.GetString("CarEditFormlabel8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Zrušiť.
+        /// </summary>
+        internal static string CarsForm_bFilterClear {
+            get {
+                return ResourceManager.GetString("CarsForm_bFilterClear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Filtrovať.
+        /// </summary>
+        internal static string CarsForm_bRunFilter {
+            get {
+                return ResourceManager.GetString("CarsForm_bRunFilter", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Značka.
+        /// </summary>
+        internal static string CarsForm_lBrand {
+            get {
+                return ResourceManager.GetString("CarsForm_lBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to ŠPZ.
+        /// </summary>
+        internal static string CarsForm_lLp {
+            get {
+                return ResourceManager.GetString("CarsForm_lLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bezpečnostná úroveň.
+        /// </summary>
+        internal static string CarsForm_lSecurityLevel {
+            get {
+                return ResourceManager.GetString("CarsForm_lSecurityLevel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Autá.
         /// </summary>
         internal static string CarsFormCarsForm {
@@ -2815,6 +2959,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Značka.
+        /// </summary>
+        internal static string ColumnBrand {
+            get {
+                return ResourceManager.GetString("ColumnBrand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Kalendár.
         /// </summary>
         internal static string ColumnCalendar {
@@ -3301,6 +3454,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ŠPZ.
+        /// </summary>
+        internal static string ColumnLp {
+            get {
+                return ResourceManager.GetString("ColumnLp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Sieťové meno servera.
         /// </summary>
         internal static string ColumnMachineName {
@@ -3531,6 +3693,15 @@ namespace Contal.Cgp.Client {
         internal static string ColumnRole {
             get {
                 return ResourceManager.GetString("ColumnRole", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Úroveň zabezpečenia.
+        /// </summary>
+        internal static string ColumnSecurityLevel {
+            get {
+                return ResourceManager.GetString("ColumnSecurityLevel", resourceCulture);
             }
         }
         
@@ -3778,6 +3949,15 @@ namespace Contal.Cgp.Client {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Symbol.
+        /// </summary>
+        internal static string ColumnSymbol {
+            get {
+                return ResourceManager.GetString("ColumnSymbol", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to TCP port servera.
         /// </summary>
         internal static string ColumnTcpPort {
@@ -3837,6 +4017,24 @@ namespace Contal.Cgp.Client {
         internal static string ColumnUsername {
             get {
                 return ResourceManager.GetString("ColumnUsername", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platnosť od.
+        /// </summary>
+        internal static string ColumnValidityDateFrom {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateFrom", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Platnosť do.
+        /// </summary>
+        internal static string ColumnValidityDateTo {
+            get {
+                return ResourceManager.GetString("ColumnValidityDateTo", resourceCulture);
             }
         }
         

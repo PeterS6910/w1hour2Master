@@ -609,6 +609,24 @@
   <data name="ColumnGroupName" xml:space="preserve">
     <value>Názov skupiny</value>
   </data>
+  <data name="ColumnLp" xml:space="preserve">
+    <value>ŠPZ</value>
+  </data>
+  <data name="ColumnBrand" xml:space="preserve">
+    <value>Značka</value>
+  </data>
+  <data name="ColumnValidityDateFrom" xml:space="preserve">
+    <value>Platnosť od</value>
+  </data>
+  <data name="ColumnValidityDateTo" xml:space="preserve">
+    <value>Platnosť do</value>
+  </data>
+  <data name="ColumnSecurityLevel" xml:space="preserve">
+    <value>Úroveň zabezpečenia</value>
+  </data>
+  <data name="ColumnSymbol" xml:space="preserve">
+    <value>Symbol</value>
+  </data>
   <data name="ColumnIdentification" xml:space="preserve">
     <value>ID</value>
   </data>
@@ -1121,7 +1139,55 @@
   </data>
   <data name="CarsFormCarsForm" xml:space="preserve">
     <value>Autá</value>
-  </data>  
+  </data>
+  <data name="CarsForm_bFilterClear" xml:space="preserve">
+    <value>Zrušiť</value>
+  </data>
+  <data name="CarsForm_bRunFilter" xml:space="preserve">
+    <value>Filtrovať</value>
+  </data>
+  <data name="CarsForm_lBrand" xml:space="preserve">
+    <value>Značka</value>
+  </data>
+  <data name="CarsForm_lLp" xml:space="preserve">
+    <value>ŠPZ</value>
+  </data>
+  <data name="CarsForm_lSecurityLevel" xml:space="preserve">
+    <value>Bezpečnostná úroveň</value>
+  </data>
+  <data name="CarEditForm_lAssignedCards" xml:space="preserve">
+    <value>Priradené</value>
+  </data>
+  <data name="CarEditForm_lAvailableCards" xml:space="preserve">
+    <value>Dostupné</value>
+  </data>
+  <data name="CarEditForm_tpCards" xml:space="preserve">
+    <value>Karty</value>
+  </data>
+  <data name="CarEditForm_tpInformation" xml:space="preserve">
+    <value>Informácie</value>
+  </data>
+  <data name="CarEditFormlabel1" xml:space="preserve">
+    <value>ŠPZ</value>
+  </data>
+  <data name="CarEditFormlabel2" xml:space="preserve">
+    <value>Značka</value>
+  </data>
+  <data name="CarEditFormlabel3" xml:space="preserve">
+    <value>Platné od</value>
+  </data>
+  <data name="CarEditFormlabel4" xml:space="preserve">
+    <value>Platné do</value>
+  </data>
+  <data name="CarEditFormlabel5" xml:space="preserve">
+    <value>Bezpečnostná úroveň</value>
+  </data>
+  <data name="CarEditFormlabel6" xml:space="preserve">
+    <value>Verzia</value>
+  </data>
+  <data name="CarEditFormlabel8" xml:space="preserve">
+    <value>Popis</value>
+  </data>
   <data name="CgpClientMainForm_cardsForm" xml:space="preserve">
     <value>Karty</value>
   </data>

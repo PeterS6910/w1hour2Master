@@ -153,6 +153,7 @@ namespace Contal.Cgp.Server.Beans
             IdCar = car.IdCar;
             Lp = car.Lp ?? car.WholeName;
             Brand = car.Brand;
+            ValidityDateFrom = car.ValidityDateFrom;
             ValidityDateTo = car.ValidityDateTo;
             SecurityLevel = car.SecurityLevel;
             Version = car.Version;

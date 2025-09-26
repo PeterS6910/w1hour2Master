@@ -612,6 +612,24 @@
   <data name="ColumnGroupName" xml:space="preserve">
     <value>Group name</value>
   </data>
+  <data name="ColumnLp" xml:space="preserve">
+    <value>License plate</value>
+  </data>
+  <data name="ColumnBrand" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="ColumnValidityDateFrom" xml:space="preserve">
+    <value>Valid from</value>
+  </data>
+  <data name="ColumnValidityDateTo" xml:space="preserve">
+    <value>Valid to</value>
+  </data>
+  <data name="ColumnSecurityLevel" xml:space="preserve">
+    <value>Security level</value>
+  </data>
+  <data name="ColumnSymbol" xml:space="preserve">
+    <value>Symbol</value>
+  </data>
   <data name="ColumnIdentification" xml:space="preserve">
     <value>ID</value>
   </data>
@@ -1124,6 +1142,54 @@
   </data>
   <data name="CarsFormCarsForm" xml:space="preserve">
     <value>Cars</value>
+  </data>
+  <data name="CarsForm_lBrand" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="CarsForm_lLp" xml:space="preserve">
+    <value>Lp</value>
+  </data>
+  <data name="CarsForm_lSecurityLevel" xml:space="preserve">
+    <value>Security level</value>
+  </data>
+  <data name="CarsForm_bFilterClear" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="CarsForm_bRunFilter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
+  <data name="CarEditForm_lAssignedCards" xml:space="preserve">
+    <value>Assigned</value>
+  </data>
+  <data name="CarEditForm_lAvailableCards" xml:space="preserve">
+    <value>Available</value>
+  </data>
+  <data name="CarEditForm_tpCards" xml:space="preserve">
+    <value>Cards</value>
+  </data>
+  <data name="CarEditForm_tpInformation" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="CarEditFormlabel1" xml:space="preserve">
+    <value>License plate</value>
+  </data>
+  <data name="CarEditFormlabel2" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="CarEditFormlabel3" xml:space="preserve">
+    <value>Valid from</value>
+  </data>
+  <data name="CarEditFormlabel4" xml:space="preserve">
+    <value>Valid to</value>
+  </data>
+  <data name="CarEditFormlabel5" xml:space="preserve">
+    <value>Security level</value>
+  </data>
+  <data name="CarEditFormlabel6" xml:space="preserve">
+    <value>Version</value>
+  </data>
+  <data name="CarEditFormlabel8" xml:space="preserve">
+    <value>Description</value>
   </data>
   <data name="CgpClientMainForm_cardsForm" xml:space="preserve">
     <value>Cards</value>
